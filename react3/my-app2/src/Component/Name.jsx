@@ -1,9 +1,11 @@
-import React from 'react'
-import './Style.css'
+import React from "react";
+import "./Style.css";
 const Name = () => {
   return (
-    <div><p>Name: Mirvari Muradova</p></div>
-  )
-}
+    <div>
+      <p>Name: Memmed Suleymanov</p>
+    </div>
+  );
+};
 
-export default Name
+export default Name;
