@@ -3,7 +3,7 @@ import './Style.css'
 const Adress = () => {
   return (
     <div>
-        <p>Adress: Baki seheri,Suraxani rayonu,Hovsan qesebesi</p>
+        <p>Adress: Baki seheri,Yasamal rayonu</p>
     </div>
   )
 }
